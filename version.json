@@ -1,11 +1,11 @@
 {
-  "version": "1.1.28",
-  "notes": "Neu: eine eingebaute Hilfe mit Suchfunktion.\r\n\r\n- Das Fragezeichen oben rechts öffnet sie, F1 tut es auch\r\n- 18 Themen von den ersten Schritten bis zur Fehlersuche\r\n- Die Suche versteht auch gebeugte Wörter: „schuljahr wechseln\" findet den\r\n  Schuljahreswechsel\r\n- Behoben: In den Einstellungen wurden die CSV-Beispiele am rechten Rand\r\n  abgeschnitten, wenn das Fenster schmal war",
-  "pub_date": "2026-09-04T12:26:47Z",
+  "version": "1.1.29",
+  "notes": "Behebt einen Fehler beim Aktualisieren.\r\n\r\n- Beim Update meldete Windows „Error opening file for writing\", weil der\r\n  Datenserver von LebWerk noch lief. Er wird jetzt zuverlässig beendet, und der\r\n  Installer räumt zusätzlich selbst auf, falls doch noch etwas offen ist.\r\n- Die CSV-Beispiele in den Einstellungen brechen jetzt an den Trennzeichen um\r\n  statt mitten im Wort.\r\n- Die Hilfe erklärt, was bei einem abgebrochenen Update zu tun ist.",
+  "pub_date": "2026-09-04T13:06:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNEFXam5GdEpzVFpUNDdSOEpsTVVRMGVkSWdZNmpOWGFCay9wTUREQ0ZLeGxFWEM2bExlYUczVmpVdDV5UjdSVERwdGFPQ0Q1aFBuVS9YN0VDN0JFOFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTI0Nzg5CWZpbGU6TGViV2Vya18xLjEuMjhfeDY0LXNldHVwLmV4ZQo1VThqQXhCMUtybDJNZFhwbHJCQTg1NTI1T3I3RDMxSWRPdFdWQnVJaEdiRU5TL3E5ekI0eU0wanRPRGVtbEhPWTh3QjlQZlJwSlFPUzBvTUU2WE9DQT09Cg==",
-      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.28/LebWerk_1.1.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNE1HVktoZG9rMkMxUGFhVEVqT2JoZDh4U2xTR2thZkpuNVAwdDk5amxMaGJkT3RQL00wcEFKUlYybEhsWVhtQTlmSTJGRjJTSGFReXZyU2JBTmhLWXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTI3MTI1CWZpbGU6TGViV2Vya18xLjEuMjlfeDY0LXNldHVwLmV4ZQpoL0JKUmNxUjZRQTZqdm9haVI0UktTeWp4Y3ZDV21GN1dETWJzMHluN0J1TXEyK0tHMjBMRTQrYllPbEViTHNWMHVZVFRuSVFwRWlLYm8zTXFYMmNDQT09Cg==",
+      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.29/LebWerk_1.1.29_x64-setup.exe"
     }
   }
 }
