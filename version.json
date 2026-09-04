@@ -1,0 +1,11 @@
+{
+  "version": "1.1.27",
+  "notes": "LebWerk meldet sich jetzt selbst, wenn eine neuere Version bereitliegt,\r\nund installiert sie auf Wunsch mit einem Klick.\r\n\r\n- Update-Prüfung beim Start, mit Nachfrage statt ungefragtem Download\r\n- Nachsehen jederzeit möglich: Einstellungen → Daten & Backup → \"Nach Update suchen\"\r\n- Vor dem Update wird automatisch ein Backup angelegt\r\n- Die Schriften liegen jetzt bei der App: kein Nachladen mehr aus dem Internet,\r\n  auch die Handy-Seite der Peer-Bewertung kommt ohne aus\r\n- Anleitung und Kurzinfo auf den aktuellen Stand gebracht",
+  "pub_date": "2026-09-04T11:14:45Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNEtDS3B6NEJ3ZXZKcUVzQkp3VHV2YzVEWDQxSVpXRFZNanpTQzRBSm4wRWR2N0h6T3oxNkFzTzZQaFBJTXdCVFVGRFg2TG1jM0NzZ3VVU1FwRy9xSmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTIwNDU3CWZpbGU6TGViV2Vya18xLjEuMjdfeDY0LXNldHVwLmV4ZQpYTDJmc3RWN012RjRmU3hMMUUvYll2b1hLajBCazVLMk1TYUJXS3NUSkxBWWE2eFV3WFArRGRQUjF6anpVbGZJMVVvVFVkSGNGSlJ5WW1CUjJhVGFEUT09Cg==",
+      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.27/LebWerk_1.1.27_x64-setup.exe"
+    }
+  }
+}
