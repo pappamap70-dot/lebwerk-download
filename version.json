@@ -1,11 +1,11 @@
 {
-  "version": "1.1.29",
-  "notes": "Behebt einen Fehler beim Aktualisieren.\r\n\r\n- Beim Update meldete Windows „Error opening file for writing\", weil der\r\n  Datenserver von LebWerk noch lief. Er wird jetzt zuverlässig beendet, und der\r\n  Installer räumt zusätzlich selbst auf, falls doch noch etwas offen ist.\r\n- Die CSV-Beispiele in den Einstellungen brechen jetzt an den Trennzeichen um\r\n  statt mitten im Wort.\r\n- Die Hilfe erklärt, was bei einem abgebrochenen Update zu tun ist.",
-  "pub_date": "2026-09-04T13:06:10Z",
+  "version": "1.1.30",
+  "notes": "Zweiter Anlauf gegen den Update-Fehler.\r\n\r\nDer Installer meldete „Error opening file for writing\", weil der Datenserver\r\nvon LebWerk noch lief. Der erste Versuch, ihn vorher zu beenden, hat nicht\r\ngegriffen. Jetzt schiebt der Installer die alte Datei einfach zur Seite und\r\nschreibt die neue daneben – das erlaubt Windows auch bei laufendem Programm.",
+  "pub_date": "2026-09-04T13:28:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNE1HVktoZG9rMkMxUGFhVEVqT2JoZDh4U2xTR2thZkpuNVAwdDk5amxMaGJkT3RQL00wcEFKUlYybEhsWVhtQTlmSTJGRjJTSGFReXZyU2JBTmhLWXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTI3MTI1CWZpbGU6TGViV2Vya18xLjEuMjlfeDY0LXNldHVwLmV4ZQpoL0JKUmNxUjZRQTZqdm9haVI0UktTeWp4Y3ZDV21GN1dETWJzMHluN0J1TXEyK0tHMjBMRTQrYllPbEViTHNWMHVZVFRuSVFwRWlLYm8zTXFYMmNDQT09Cg==",
-      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.29/LebWerk_1.1.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNEVTUStSaldjOGQyQWkwdDBVZ1BqTmtmZS8zV2lmUFhXTzRrS3dZd1FzdUZQdzZMUERYUUF4RWIva1Nkc1VDUWtxMkJHVHJadWU0VmxubDU2VEhsN2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTI4NDY1CWZpbGU6TGViV2Vya18xLjEuMzBfeDY0LXNldHVwLmV4ZQp0MWJ6Q2hIQm9ZNmp0aU44STdOTldmQ3BIeXBGb3g3VkpvUE5uSE1sU0J3VUVRSEFUdXpzbXluakNIeElDalFPWkFZM2x6YS80Q05jYXNXZ2o0UXBDdz09Cg==",
+      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.30/LebWerk_1.1.30_x64-setup.exe"
     }
   }
 }
