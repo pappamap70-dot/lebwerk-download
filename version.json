@@ -1,11 +1,11 @@
 {
-  "version": "1.1.31",
-  "notes": "Die Bewertungsbereiche lassen sich jetzt je Fach umbenennen.\r\n\r\n- Einstellungen → Noten & Berichte → Bereichsgewichtung: Ist dort ein Fach\r\n  gewählt, sind die vier Überschriften Eingabefelder. Der Name gilt nur für\r\n  dieses Fach und erscheint überall – beim Anlegen einer Bewertung, in der\r\n  Notenübersicht, im Druck und im Export.\r\n- Gedacht ist das für Fächer, in die die vier Vorgaben nicht passen: Im Sport\r\n  gibt es kein „Schriftlich\", dafür Bewertetes wie Sportzeug oder Auf- und\r\n  Abbau. Das heißt dann eben „Sozial & Engagement\" statt „Projektarbeit\".\r\n- Wer nichts einträgt, merkt nichts: Die Bezeichnungen bleiben wie bisher.\r\n- „Musterdaten laden\" sagt jetzt, in welchem Schuljahr die Beispiele landen –\r\n  vorher wirkte es, als sei nichts passiert, wenn man in einem anderen\r\n  Schuljahr arbeitete.",
-  "pub_date": "2026-09-06T12:11:52Z",
+  "version": "1.1.32",
+  "notes": "Behebt das Update, das mit „Update fehlgeschlagen\" abbrach.\r\n\r\n- Der Datenserver ließ sich nicht beenden und blockierte die Installation.\r\n  Er beendet sich jetzt zuverlässig.\r\n- Und selbst wenn nicht: Das Update läuft trotzdem durch. Der Installer schiebt\r\n  eine noch belegte Datei zur Seite – der bisherige Abbruch verhinderte ein\r\n  Update, das ohne ihn funktioniert hätte.",
+  "pub_date": "2026-09-06T12:40:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNEV1cWFUbVFxRFlvRUFyZkJDUHpEeUs5SXU4bnhtYWE5SXVUN2pzMmFjS0k0NVNDdks5cjNJUW83ZlUzRmRNemdZMm1vVjFoWTQxT1dvWDNFNXJFSEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Njk2NjkxCWZpbGU6TGViV2Vya18xLjEuMzFfeDY0LXNldHVwLmV4ZQozTVlDRTk4cytWR1djaFRxakttLy82bzNDRjZJRXF2VlB4YlVVWS83VXN1UVpXcDVEdkhsUWVydWs1M2tGN1R1V1cvU0svMHoxVFJxN2FiTitUeE5Edz09Cg==",
-      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.31/LebWerk_1.1.31_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNEZJNXpERDRoV3FrNFlnNzJ6VmNKTHdPTUNVaEp6M3hxUGx4L2psQjdIT2MwQzVzejZSSGkyL0NVWmZwcjNObW5HU052ZUd4MjdkdTZkZXhGVVBzWEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Njk4NDM1CWZpbGU6TGViV2Vya18xLjEuMzJfeDY0LXNldHVwLmV4ZQpQZ2V6akNUY0I1Qjg3dHJaUlFqanFMMjIrckoyZFAwbGw4SlpKTDZvV05JQXBRQ0pzMFMrZ2gzaGRDMlU1NTRxN0kyOHhtL3RST0hlQzNpRlU4Z1BDUT09Cg==",
+      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.32/LebWerk_1.1.32_x64-setup.exe"
     }
   }
 }
