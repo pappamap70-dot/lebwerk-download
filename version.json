@@ -1,11 +1,11 @@
 {
-  "version": "1.1.32",
-  "notes": "Behebt das Update, das mit „Update fehlgeschlagen\" abbrach.\r\n\r\n- Der Datenserver ließ sich nicht beenden und blockierte die Installation.\r\n  Er beendet sich jetzt zuverlässig.\r\n- Und selbst wenn nicht: Das Update läuft trotzdem durch. Der Installer schiebt\r\n  eine noch belegte Datei zur Seite – der bisherige Abbruch verhinderte ein\r\n  Update, das ohne ihn funktioniert hätte.",
-  "pub_date": "2026-09-06T12:40:57Z",
+  "version": "1.1.33",
+  "notes": "Peer-Bewertungen lassen sich jetzt als Vorlage speichern.\r\n\r\n- Bisher musste man eine Peer-Bewertung genau dann einrichten, wenn man sie\r\n  brauchte – und die nächste Runde überschrieb die vorige.\r\n- Jetzt gibt es oben unter **Peer-Bewertung → Konfiguration** den Bereich\r\n  **Vorlagen**: Titel, Art, Fach und Kriterien unter einem Namen speichern\r\n  (z. B. „Referat\" oder „Holzkästchen\") und im Unterricht mit einem Klick laden.\r\n- Vorlagen gehören zu keiner Klasse – dieselbe Vorlage passt für jede Klasse.\r\n- Was du nach dem Laden änderst, gilt nur für die aktuelle Runde. Die Vorlage\r\n  selbst änderst du, indem du sie unter demselben Namen neu speicherst.",
+  "pub_date": "2026-11-18T05:31:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNEZJNXpERDRoV3FrNFlnNzJ6VmNKTHdPTUNVaEp6M3hxUGx4L2psQjdIT2MwQzVzejZSSGkyL0NVWmZwcjNObW5HU052ZUd4MjdkdTZkZXhGVVBzWEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Njk4NDM1CWZpbGU6TGViV2Vya18xLjEuMzJfeDY0LXNldHVwLmV4ZQpQZ2V6akNUY0I1Qjg3dHJaUlFqanFMMjIrckoyZFAwbGw4SlpKTDZvV05JQXBRQ0pzMFMrZ2gzaGRDMlU1NTRxN0kyOHhtL3RST0hlQzNpRlU4Z1BDUT09Cg==",
-      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.32/LebWerk_1.1.32_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNENMbjVFMXl5VDIxOEhSRXZIK011a09YY2NDR2djT1FFV3d6azdET0F6UlBrUlZTWFNUL2VLeEpIdkZkMityelhaeW1QVzNVTityVDdtdDh3TzY1REE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTc5ODg2CWZpbGU6TGViV2Vya18xLjEuMzNfeDY0LXNldHVwLmV4ZQphTVVKTVZ5dXVHcElKUi9jdkxYSHFWVG43bjhmeHNNNXdXZkhRK1pyV2M0Zkg1RFFEUmRtMW90SkRHS1g0aTBuZnpCZUk1Z0FsS3VhbzFDSWNJR3RBQT09Cg==",
+      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.33/LebWerk_1.1.33_x64-setup.exe"
     }
   }
 }
