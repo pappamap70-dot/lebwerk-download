@@ -1,11 +1,11 @@
 {
-  "version": "1.1.33",
-  "notes": "Peer-Bewertungen lassen sich jetzt als Vorlage speichern.\r\n\r\n- Bisher musste man eine Peer-Bewertung genau dann einrichten, wenn man sie\r\n  brauchte – und die nächste Runde überschrieb die vorige.\r\n- Jetzt gibt es oben unter **Peer-Bewertung → Konfiguration** den Bereich\r\n  **Vorlagen**: Titel, Art, Fach und Kriterien unter einem Namen speichern\r\n  (z. B. „Referat\" oder „Holzkästchen\") und im Unterricht mit einem Klick laden.\r\n- Vorlagen gehören zu keiner Klasse – dieselbe Vorlage passt für jede Klasse.\r\n- Was du nach dem Laden änderst, gilt nur für die aktuelle Runde. Die Vorlage\r\n  selbst änderst du, indem du sie unter demselben Namen neu speicherst.",
-  "pub_date": "2026-11-18T05:31:51Z",
+  "version": "1.1.34",
+  "notes": "LebWerk lässt sich nicht mehr versehentlich zweimal öffnen, und die Namen bleiben beim Bewerten sichtbar.\r\n\r\n- Ein zweiter Start holt jetzt das schon offene Fenster nach vorn. Vorher konnte die\r\n  zweite Instanz die erste abschalten – am Ende ließ sich die Bewertung nicht mehr\r\n  speichern („App gesperrt\").\r\n- In der Bewertungstabelle bleibt die Spalte mit den Schülernamen beim seitlichen\r\n  Scrollen stehen. Das hilft bei vielen Kriterien oder schmalen Fenstern.\r\n\r\nAußerdem in dieser Fassung:\r\nPeer-Bewertungen lassen sich jetzt als Vorlage speichern.\r\n\r\n- Bisher musste man eine Peer-Bewertung genau dann einrichten, wenn man sie\r\n  brauchte – und die nächste Runde überschrieb die vorige.\r\n- Jetzt gibt es oben unter **Peer-Bewertung → Konfiguration** den Bereich\r\n  **Vorlagen**: Titel, Art, Fach und Kriterien unter einem Namen speichern\r\n  (z. B. „Referat\" oder „Holzkästchen\") und im Unterricht mit einem Klick laden.\r\n- Vorlagen gehören zu keiner Klasse – dieselbe Vorlage passt für jede Klasse.\r\n- Was du nach dem Laden änderst, gilt nur für die aktuelle Runde. Die Vorlage\r\n  selbst änderst du, indem du sie unter demselben Namen neu speicherst.",
+  "pub_date": "2026-11-24T09:21:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNENMbjVFMXl5VDIxOEhSRXZIK011a09YY2NDR2djT1FFV3d6azdET0F6UlBrUlZTWFNUL2VLeEpIdkZkMityelhaeW1QVzNVTityVDdtdDh3TzY1REE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTc5ODg2CWZpbGU6TGViV2Vya18xLjEuMzNfeDY0LXNldHVwLmV4ZQphTVVKTVZ5dXVHcElKUi9jdkxYSHFWVG43bjhmeHNNNXdXZkhRK1pyV2M0Zkg1RFFEUmRtMW90SkRHS1g0aTBuZnpCZUk1Z0FsS3VhbzFDSWNJR3RBQT09Cg==",
-      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.33/LebWerk_1.1.33_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNEZBYTVObG40dXR3eVZxelEwRGlwbjRoV0lYS2lDTmIxSXdjd0RWdFZpTm9tR1pxeU5mVEJDSGsvektPWkQzcWYwaVUxaEhMS3FXUlBSVjE3SkNGeUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTEyMDUyCWZpbGU6TGViV2Vya18xLjEuMzRfeDY0LXNldHVwLmV4ZQoxQnBYaS9MYlNnMm5hdUh0QldGcXdWYzVRdUVka25UWnBoUVpWZmo1Y3FTTEF4YUUvNnVuODJVWUFVajJmdXF5UldnVU9BUDFlMkV2NlkreUM5Q2dEQT09Cg==",
+      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.34/LebWerk_1.1.34_x64-setup.exe"
     }
   }
 }
