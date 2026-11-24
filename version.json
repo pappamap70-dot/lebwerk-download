@@ -1,11 +1,11 @@
 {
-  "version": "1.1.34",
-  "notes": "LebWerk lässt sich nicht mehr versehentlich zweimal öffnen, und die Namen bleiben beim Bewerten sichtbar.\r\n\r\n- Ein zweiter Start holt jetzt das schon offene Fenster nach vorn. Vorher konnte die\r\n  zweite Instanz die erste abschalten – am Ende ließ sich die Bewertung nicht mehr\r\n  speichern („App gesperrt\").\r\n- In der Bewertungstabelle bleibt die Spalte mit den Schülernamen beim seitlichen\r\n  Scrollen stehen. Das hilft bei vielen Kriterien oder schmalen Fenstern.\r\n\r\nAußerdem in dieser Fassung:\r\nPeer-Bewertungen lassen sich jetzt als Vorlage speichern.\r\n\r\n- Bisher musste man eine Peer-Bewertung genau dann einrichten, wenn man sie\r\n  brauchte – und die nächste Runde überschrieb die vorige.\r\n- Jetzt gibt es oben unter **Peer-Bewertung → Konfiguration** den Bereich\r\n  **Vorlagen**: Titel, Art, Fach und Kriterien unter einem Namen speichern\r\n  (z. B. „Referat\" oder „Holzkästchen\") und im Unterricht mit einem Klick laden.\r\n- Vorlagen gehören zu keiner Klasse – dieselbe Vorlage passt für jede Klasse.\r\n- Was du nach dem Laden änderst, gilt nur für die aktuelle Runde. Die Vorlage\r\n  selbst änderst du, indem du sie unter demselben Namen neu speicherst.",
-  "pub_date": "2026-11-24T09:21:10Z",
+  "version": "1.1.35",
+  "notes": "Die Warnung „Letztes Backup vor X Tagen\" kommt nicht mehr fälschlich.\r\n\r\n- Bisher zählte für die Warnung nur ein von Hand gespeichertes Backup. Das\r\n  automatische Backup wurde nicht mitgerechnet – wer es eingestellt hatte, bekam\r\n  trotzdem bei jedem Start die Meldung.\r\n- Jetzt gilt das neueste Backup, egal ob automatisch oder von Hand. Die Prüfung\r\n  läuft erst, nachdem das Start-Backup angelegt wurde.",
+  "pub_date": "2026-11-24T14:11:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNEZBYTVObG40dXR3eVZxelEwRGlwbjRoV0lYS2lDTmIxSXdjd0RWdFZpTm9tR1pxeU5mVEJDSGsvektPWkQzcWYwaVUxaEhMS3FXUlBSVjE3SkNGeUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTEyMDUyCWZpbGU6TGViV2Vya18xLjEuMzRfeDY0LXNldHVwLmV4ZQoxQnBYaS9MYlNnMm5hdUh0QldGcXdWYzVRdUVka25UWnBoUVpWZmo1Y3FTTEF4YUUvNnVuODJVWUFVajJmdXF5UldnVU9BUDFlMkV2NlkreUM5Q2dEQT09Cg==",
-      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.34/LebWerk_1.1.34_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNE9XUGJvNHZoSVlFeVpaYXRJVENkU0cwOEZMYXhqZmZwNGNwb0RnVEQ2d0Y3Q25ZMUs3RW5CN0xxV2MwUUltWm9LdHBtOHc4OFliYTNWL1J4dWJTZmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI5NDQ5CWZpbGU6TGViV2Vya18xLjEuMzVfeDY0LXNldHVwLmV4ZQpPbzk0a25tME4zaG5IQVhVRjNEYkhWNmJ1R3lGLzNuRFJsbFduUDZXZDNXVzdVT0xvNmVSNkpCTWdhVjk3T201RUd4TG81RS9VSlN5NUxIZkl2MGJBdz09Cg==",
+      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.35/LebWerk_1.1.35_x64-setup.exe"
     }
   }
 }
