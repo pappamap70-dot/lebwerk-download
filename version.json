@@ -1,11 +1,11 @@
 {
-  "version": "1.1.35",
-  "notes": "Die Warnung „Letztes Backup vor X Tagen\" kommt nicht mehr fälschlich.\r\n\r\n- Bisher zählte für die Warnung nur ein von Hand gespeichertes Backup. Das\r\n  automatische Backup wurde nicht mitgerechnet – wer es eingestellt hatte, bekam\r\n  trotzdem bei jedem Start die Meldung.\r\n- Jetzt gilt das neueste Backup, egal ob automatisch oder von Hand. Die Prüfung\r\n  läuft erst, nachdem das Start-Backup angelegt wurde.",
-  "pub_date": "2026-11-24T14:11:19Z",
+  "version": "1.1.36",
+  "notes": "Bei der Peer-Bewertung können die Schüler/innen jetzt halbe Punkte geben.\r\n\r\n- In der Schüler-Ansicht (Handy per QR-Code und die Datei-Variante) gibt es unter\r\n  jedem Kriterium den Knopf **+ ½**. Erst die ganze Zahl antippen, dann bei Bedarf\r\n  den halben Punkt dazunehmen – aus 3 wird 3,5.\r\n- Beim Höchstwert eines Kriteriums ist der Knopf gesperrt, mehr als das Maximum\r\n  geht also nicht.\r\n- Die Summe oben zeigt die halben Punkte mit Komma an. In der Auswertung in LebWerk\r\n  kommen sie unverändert an.",
+  "pub_date": "2026-11-26T09:24:34Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNE9XUGJvNHZoSVlFeVpaYXRJVENkU0cwOEZMYXhqZmZwNGNwb0RnVEQ2d0Y3Q25ZMUs3RW5CN0xxV2MwUUltWm9LdHBtOHc4OFliYTNWL1J4dWJTZmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI5NDQ5CWZpbGU6TGViV2Vya18xLjEuMzVfeDY0LXNldHVwLmV4ZQpPbzk0a25tME4zaG5IQVhVRjNEYkhWNmJ1R3lGLzNuRFJsbFduUDZXZDNXVzdVT0xvNmVSNkpCTWdhVjk3T201RUd4TG81RS9VSlN5NUxIZkl2MGJBdz09Cg==",
-      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.35/LebWerk_1.1.35_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSODJ6UGd4T0diNEtsOHZ5RTNlVFhHb3hXNnNIQW9qWXFwbk5JZDlyMmk5c3RuQ0t6L3FLZ1VUV0tWRW1XenBVZW00UkZpZzdIK2ZJeE5LYS9yN1RPVlFaWW9IRGtIU3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg1MDMwCWZpbGU6TGViV2Vya18xLjEuMzZfeDY0LXNldHVwLmV4ZQpPZlpUTWlkNXh4RjVBTS96VnFhRmRwNXJ6K0JydWtxaFYyOEdDUldLemtmM0pZZmpFbVdWYmlReWowRmFSdmw5THEzdExzOEZiRTFoMmZnYUpZbEFDdz09Cg==",
+      "url": "https://github.com/pappamap70-dot/lebwerk-download/releases/download/v1.1.36/LebWerk_1.1.36_x64-setup.exe"
     }
   }
 }
